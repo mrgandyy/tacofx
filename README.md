@@ -33,5 +33,8 @@ TacoFX Ultimate is a modular, AudioLink-reactive shader pack for **VRChat PC wor
 
 ## License (documentation)
 
-These documentation files may be shared and referenced freely.  
-(Your shader package license terms still apply to the shader assets themselves.)
+The contents of this documentation repository may be shared, referenced, and linked freely.
+
+This license applies to documentation files only.
+
+The TacoFX shader package, source files, textures, and distributed Unity assets remain subject to the commercial license included with the purchased package. Redistribution, resale, or rehosting of the shader assets is strictly prohibited.
