@@ -29,7 +29,7 @@ TacoFX Ultimate is a modular, AudioLink-reactive shader pack for **VRChat PC wor
 ## Support
 
 - Documentation: https://github.com/mrgandyy/tacofx  
-- Discord: https://discord.gg/MyRFQjpRzc
+- Discord: [Join here](https://discord.gg/MyRFQjpRzc)
 
 ## License (documentation)
 
